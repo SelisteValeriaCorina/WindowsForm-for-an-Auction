@@ -1,0 +1,12 @@
+C:\Users\Corina\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\Corina\source\repos\project\project\bin\Debug\project.exe
+C:\Users\Corina\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.Form2.resources
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.exe
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\Corina\source\repos\project\project\obj\Debug\project.EditForm.resources
